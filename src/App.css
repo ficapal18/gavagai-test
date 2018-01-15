@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+  font-family: "Verdana", Times, serif;
+}
+
+.App-logo {
+
+  height: 80px;
+}
+
+.App-header {
+  height: 50px;
+  padding: 10px;
+  color: black;
+
+}
+
+.App-body {
+
+}
+
+.App-title {
+  padding: 20px;
+  font-size: 1em;
+  font-family: "Verdana", Times, serif;
+  font-style: normal;
+}
+
+.App-intro {
+  padding: 20px;
+
+  font-size: large;
+  font-family: "Arial", Times, serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.App-intro-header-2 {
+  padding: 100px;
+  font-size: large;
+  font-family: "Verdana", Times, serif;
+  font-style: normal;
+  background-color: #F5F5F5;
+
+
+}
+.App-intro-header {
+  font-family: "Arial", Times, serif;
+  font-size: large;
+  font-weight: bold;
+  font-style: normal;
+  background-color: #F5F5F5;
+
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
